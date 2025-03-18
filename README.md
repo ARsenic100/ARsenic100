@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a 3rd year student at Indian Institute of Information Technology, Jabalpur👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently learning Node.js , Express.js<br>💬 Ask me about TensorFlow , React.js , JavaScript<br>⚡ Fun fact - Strategic battles on the chessboard. ♟️
+🔭 I’m currently a 3rd year student at Indian Institute of Information Technology, Jabalpur <br>👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently learning Node.js , Express.js<br>💬 Ask me about TensorFlow , React.js , JavaScript<br>⚡ Fun fact - Strategic battles on the chessboard. ♟️
 
 
 ## 🌐 Socials:
