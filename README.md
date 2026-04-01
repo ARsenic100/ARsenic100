@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsenic100&label=Profile%20views&color=0e75b6&style=flat" alt="arsenic100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenic100" alt="arsenic100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenic100" /></a> </p>
 
 - 🔭 I’m currently **a final year student at Indian Institute of Information Technology, Jabalpur**
 
