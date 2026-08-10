@@ -5,19 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenic100"  alt = ""/></a> </p>
 
-- 🔭 I’m currently **a final year student at Indian Institute of Information Technology, Jabalpur**
+- 🔭 I’m a **B.Tech graduate from Indian Institute of Information Technology, Jabalpur**
 
-- 🌱 I’m currently learning **Databricks, Airflow & Devops**
+- 💻 I’m currently working as a **Software Development Engineer at Sigmoid**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 🚀 I’m interested in building **scalable backend systems, distributed applications, and full-stack products**
 
-- 🤝 I’m looking for **SDE full time roles/ internships**
+- 🤝 I’m looking for **SDE-1 opportunities**
 
-- 💬 Ask me about **React.js , Node.js , Express.js, TensorFlow**
+- 🧠 I’m currently focused on **Data Structures & Algorithms, System Design, Backend Engineering, and Cloud Architecture**
 
-- 📫 How to reach me **adityaraj2263@gmail.com**
+- ☁️ I work with **AWS, Node.js, React.js, Python, C++, SQL, Databricks, Apache Spark, and Terraform**
 
-- ⚡ Fun fact **Strategic battles on the chessboard**
+- ⚙️ I’m currently learning **Low-Level Design, Distributed Systems, and Advanced System Design**
+
+- 🏆 Competitive Programming: **3★ CodeChef | Codeforces Pupil (1262) | 350+ Codeforces Problems | 450+ LeetCode Problems**
+
+- 💬 Ask me about **C++, DSA, Backend Development, AWS, Data Engineering, and System Design**
+
+- 📫 How to reach me **[adityaraj2263@gmail.com](mailto:adityaraj2263@gmail.com)**
+
+- ⚡ Fun fact: **Strategic battles on the chessboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
