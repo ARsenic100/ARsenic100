@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsenic100"  alt = ""/></a> </p>
 
-- 🔭 🔭 I’m a **B.Tech graduate from the Indian Institute of Information Technology, Jabalpur, class of 2026**.
+- 🔭 🔭 I’m a **B.Tech graduate from the Indian Institute of Information Technology, Jabalpur, class of 2026**
 
 - 💻 I’m currently working as a **Software Development Engineer at Sigmoid**
 
